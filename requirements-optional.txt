@@ -1,0 +1,2 @@
+# Optional: pretrained semantic model (adds embedding-based skill hints and semantic resume-role similarity)
+sentence-transformers>=3.0
