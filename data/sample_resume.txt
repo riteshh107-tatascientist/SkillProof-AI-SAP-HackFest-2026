@@ -1,0 +1,24 @@
+Sample Candidate
+sample.candidate@example.com | +91 90000 00000 | github.com/sample-candidate | linkedin.com/in/sample-candidate
+
+SUMMARY
+B.Tech CSE (Data Science) student who builds data and AI products end to end and learns quickly.
+
+EDUCATION
+B.Tech in Computer Science & Engineering (Data Science), 2024 - 2028
+
+SKILLS
+Python, Pandas, NumPy, SQL, Streamlit, Plotly, Git, GitHub, Machine Learning
+
+PROJECTS
+Built a supply-chain risk dashboard using Streamlit and Plotly that tracked 12 KPIs for 3 stakeholders.
+Developed a demand-forecasting model with Scikit-learn and Pandas, reducing mean error by 18% against a naive baseline.
+Implemented a REST API with FastAPI and wrote unit tests with pytest covering 85% of the service layer.
+Designed a fitness app using MediaPipe and OpenCV for real-time posture feedback.
+Led a team of 4 students in a 24-hour hackathon, presenting the solution to a panel of judges.
+
+CERTIFICATIONS
+Certificate in Data Analysis with Python; Certificate in SQL for Data Science
+
+ACHIEVEMENTS
+Shortlisted in a college hackathon; mentored 10 juniors in Python basics.

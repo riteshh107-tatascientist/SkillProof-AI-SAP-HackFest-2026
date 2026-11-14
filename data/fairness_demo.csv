@@ -1,0 +1,601 @@
+applicant_id,gender,age_group,region,institution_tier,skill_score,legacy_screen_shortlisted,skills_screen_shortlisted
+A0001,Male,30+,Tier-2 city,Tier-2,56.0,0,0
+A0002,Male,25-29,Tier-2 city,Tier-2,42.5,0,0
+A0003,Female,21-24,Metro,Tier-2,66.4,1,0
+A0004,Female,21-24,Tier-2 city,Tier-1,61.8,1,0
+A0005,Female,30+,Metro,Tier-3,82.3,0,1
+A0006,Female,25-29,Metro,Tier-2,66.2,0,0
+A0007,Male,30+,Rural,Tier-2,50.4,0,0
+A0008,Female,25-29,Metro,Tier-3,39.7,0,0
+A0009,Female,21-24,Rural,Tier-1,70.6,0,1
+A0010,Male,21-24,Metro,Tier-2,57.6,0,0
+A0011,Female,21-24,Tier-2 city,Tier-3,61.0,0,0
+A0012,Male,25-29,Tier-2 city,Tier-2,53.5,1,0
+A0013,Female,30+,Metro,Tier-3,34.0,0,0
+A0014,Female,25-29,Tier-2 city,Tier-2,74.7,1,1
+A0015,Female,21-24,Rural,Tier-3,68.8,0,0
+A0016,Female,30+,Metro,Tier-1,65.1,1,0
+A0017,Male,21-24,Tier-2 city,Tier-1,71.3,0,1
+A0018,Female,21-24,Tier-2 city,Tier-1,44.6,0,0
+A0019,Male,21-24,Tier-2 city,Tier-2,89.6,1,1
+A0020,Male,21-24,Rural,Tier-3,57.5,0,0
+A0021,Female,25-29,Metro,Tier-1,67.0,0,0
+A0022,Male,21-24,Metro,Tier-1,72.4,1,1
+A0023,Male,21-24,Metro,Tier-1,23.9,0,0
+A0024,Female,25-29,Rural,Tier-1,85.5,0,1
+A0025,Female,21-24,Rural,Tier-1,62.8,0,0
+A0026,Male,21-24,Tier-2 city,Tier-3,38.2,1,0
+A0027,Male,25-29,Tier-2 city,Tier-2,56.9,0,0
+A0028,Female,30+,Rural,Tier-1,100.0,1,1
+A0029,Non-binary,25-29,Rural,Tier-2,58.7,1,0
+A0030,Male,21-24,Metro,Tier-2,42.1,0,0
+A0031,Male,30+,Tier-2 city,Tier-3,59.7,0,0
+A0032,Female,21-24,Tier-2 city,Tier-3,67.4,0,0
+A0033,Male,25-29,Metro,Tier-1,53.3,1,0
+A0034,Male,30+,Tier-2 city,Tier-2,53.6,0,0
+A0035,Male,21-24,Metro,Tier-2,78.5,1,1
+A0036,Male,25-29,Rural,Tier-2,73.7,1,1
+A0037,Male,21-24,Rural,Tier-2,61.9,0,0
+A0038,Female,25-29,Metro,Tier-2,61.0,0,0
+A0039,Male,25-29,Metro,Tier-3,64.0,1,0
+A0040,Female,25-29,Metro,Tier-3,55.9,0,0
+A0041,Male,30+,Metro,Tier-1,61.9,0,0
+A0042,Male,21-24,Tier-2 city,Tier-3,63.9,1,0
+A0043,Non-binary,25-29,Metro,Tier-3,82.7,0,1
+A0044,Female,30+,Metro,Tier-1,45.7,1,0
+A0045,Male,21-24,Metro,Tier-1,75.2,1,1
+A0046,Female,30+,Rural,Tier-2,85.4,0,1
+A0047,Male,30+,Rural,Tier-2,50.0,0,0
+A0048,Female,30+,Tier-2 city,Tier-1,64.6,1,0
+A0049,Male,21-24,Metro,Tier-1,65.5,1,0
+A0050,Female,21-24,Metro,Tier-1,59.7,0,0
+A0051,Female,21-24,Tier-2 city,Tier-2,55.3,1,0
+A0052,Female,21-24,Metro,Tier-2,48.0,1,0
+A0053,Female,25-29,Tier-2 city,Tier-3,31.0,0,0
+A0054,Male,21-24,Metro,Tier-1,70.0,1,1
+A0055,Male,30+,Rural,Tier-3,16.2,0,0
+A0056,Female,25-29,Rural,Tier-3,69.1,1,0
+A0057,Male,25-29,Metro,Tier-2,74.8,1,1
+A0058,Female,21-24,Tier-2 city,Tier-2,47.5,0,0
+A0059,Male,21-24,Rural,Tier-1,69.9,1,0
+A0060,Female,21-24,Metro,Tier-1,72.0,1,1
+A0061,Female,25-29,Tier-2 city,Tier-1,72.0,0,1
+A0062,Female,25-29,Rural,Tier-3,55.8,0,0
+A0063,Male,25-29,Metro,Tier-1,66.9,1,0
+A0064,Male,30+,Tier-2 city,Tier-1,64.8,1,0
+A0065,Male,25-29,Metro,Tier-1,50.7,0,0
+A0066,Male,25-29,Tier-2 city,Tier-2,54.6,0,0
+A0067,Female,21-24,Metro,Tier-2,71.1,1,1
+A0068,Female,25-29,Tier-2 city,Tier-3,54.4,0,0
+A0069,Male,21-24,Metro,Tier-3,68.3,0,0
+A0070,Male,21-24,Rural,Tier-2,63.3,0,0
+A0071,Female,25-29,Metro,Tier-2,58.7,0,0
+A0072,Female,25-29,Metro,Tier-2,63.6,0,0
+A0073,Female,30+,Metro,Tier-2,66.8,1,0
+A0074,Female,21-24,Metro,Tier-2,63.0,1,0
+A0075,Male,21-24,Tier-2 city,Tier-2,64.6,0,0
+A0076,Male,30+,Metro,Tier-2,71.7,1,1
+A0077,Male,25-29,Metro,Tier-2,59.7,1,0
+A0078,Female,25-29,Metro,Tier-1,65.0,0,0
+A0079,Female,25-29,Rural,Tier-3,59.4,1,0
+A0080,Male,21-24,Tier-2 city,Tier-2,67.8,0,0
+A0081,Male,21-24,Metro,Tier-2,60.4,0,0
+A0082,Female,21-24,Tier-2 city,Tier-3,72.1,0,1
+A0083,Male,21-24,Metro,Tier-2,77.6,0,1
+A0084,Female,21-24,Tier-2 city,Tier-3,42.6,0,0
+A0085,Male,21-24,Tier-2 city,Tier-2,81.7,0,1
+A0086,Female,21-24,Metro,Tier-3,78.7,0,1
+A0087,Male,21-24,Rural,Tier-2,51.2,0,0
+A0088,Male,21-24,Metro,Tier-2,95.6,1,1
+A0089,Female,21-24,Rural,Tier-3,65.4,1,0
+A0090,Female,25-29,Metro,Tier-2,69.4,1,0
+A0091,Female,21-24,Metro,Tier-1,85.9,1,1
+A0092,Female,21-24,Metro,Tier-2,53.3,0,0
+A0093,Female,21-24,Tier-2 city,Tier-3,46.6,0,0
+A0094,Female,21-24,Metro,Tier-3,57.5,0,0
+A0095,Female,21-24,Tier-2 city,Tier-2,64.5,1,0
+A0096,Female,21-24,Metro,Tier-1,67.6,1,0
+A0097,Male,21-24,Metro,Tier-3,71.9,1,1
+A0098,Male,25-29,Metro,Tier-3,85.9,0,1
+A0099,Male,21-24,Metro,Tier-2,51.2,0,0
+A0100,Female,21-24,Metro,Tier-2,45.1,0,0
+A0101,Male,21-24,Metro,Tier-2,66.5,1,0
+A0102,Female,21-24,Metro,Tier-3,61.7,0,0
+A0103,Female,21-24,Rural,Tier-3,61.0,0,0
+A0104,Male,21-24,Metro,Tier-1,42.9,1,0
+A0105,Female,25-29,Metro,Tier-3,71.5,0,1
+A0106,Female,25-29,Rural,Tier-3,71.2,0,1
+A0107,Male,30+,Rural,Tier-2,58.0,1,0
+A0108,Male,21-24,Metro,Tier-3,100.0,1,1
+A0109,Male,30+,Tier-2 city,Tier-3,45.4,0,0
+A0110,Male,25-29,Tier-2 city,Tier-3,76.3,0,1
+A0111,Female,21-24,Rural,Tier-2,53.9,0,0
+A0112,Male,30+,Rural,Tier-3,50.0,0,0
+A0113,Female,21-24,Metro,Tier-2,45.6,0,0
+A0114,Male,21-24,Metro,Tier-3,76.5,1,1
+A0115,Male,25-29,Metro,Tier-3,53.5,0,0
+A0116,Male,25-29,Rural,Tier-2,55.2,0,0
+A0117,Male,21-24,Rural,Tier-2,56.4,0,0
+A0118,Female,21-24,Metro,Tier-1,68.0,1,0
+A0119,Male,21-24,Metro,Tier-1,78.5,1,1
+A0120,Female,30+,Metro,Tier-3,67.0,1,0
+A0121,Male,21-24,Metro,Tier-2,80.0,1,1
+A0122,Male,21-24,Tier-2 city,Tier-3,81.5,0,1
+A0123,Male,21-24,Metro,Tier-2,56.6,0,0
+A0124,Male,21-24,Metro,Tier-2,67.2,0,0
+A0125,Female,25-29,Tier-2 city,Tier-3,75.2,0,1
+A0126,Female,21-24,Tier-2 city,Tier-1,73.3,1,1
+A0127,Male,25-29,Tier-2 city,Tier-1,64.5,1,0
+A0128,Female,25-29,Metro,Tier-2,85.0,0,1
+A0129,Female,21-24,Metro,Tier-3,59.8,0,0
+A0130,Male,25-29,Tier-2 city,Tier-2,60.1,0,0
+A0131,Female,25-29,Tier-2 city,Tier-2,68.2,0,0
+A0132,Female,25-29,Metro,Tier-1,60.9,0,0
+A0133,Male,21-24,Metro,Tier-3,49.2,0,0
+A0134,Male,21-24,Metro,Tier-2,78.5,1,1
+A0135,Female,21-24,Metro,Tier-3,63.8,0,0
+A0136,Male,21-24,Tier-2 city,Tier-2,77.0,1,1
+A0137,Male,21-24,Tier-2 city,Tier-1,80.1,1,1
+A0138,Female,30+,Metro,Tier-2,46.6,0,0
+A0139,Male,21-24,Rural,Tier-1,71.4,0,1
+A0140,Female,21-24,Metro,Tier-3,57.0,0,0
+A0141,Male,21-24,Rural,Tier-3,67.4,0,0
+A0142,Female,25-29,Tier-2 city,Tier-2,72.5,0,1
+A0143,Male,25-29,Metro,Tier-3,53.8,0,0
+A0144,Female,21-24,Tier-2 city,Tier-2,50.2,0,0
+A0145,Male,30+,Metro,Tier-3,63.9,0,0
+A0146,Male,25-29,Tier-2 city,Tier-3,59.5,0,0
+A0147,Male,21-24,Tier-2 city,Tier-1,56.7,1,0
+A0148,Female,25-29,Metro,Tier-3,68.5,1,0
+A0149,Male,21-24,Tier-2 city,Tier-2,61.7,1,0
+A0150,Female,21-24,Metro,Tier-3,70.5,1,1
+A0151,Male,21-24,Metro,Tier-1,72.7,1,1
+A0152,Male,25-29,Tier-2 city,Tier-2,54.3,0,0
+A0153,Male,21-24,Metro,Tier-2,56.5,1,0
+A0154,Male,21-24,Metro,Tier-3,68.0,0,0
+A0155,Female,21-24,Rural,Tier-3,67.1,0,0
+A0156,Male,30+,Metro,Tier-3,66.1,0,0
+A0157,Female,21-24,Metro,Tier-2,83.9,1,1
+A0158,Male,25-29,Metro,Tier-2,84.8,0,1
+A0159,Male,21-24,Metro,Tier-2,40.8,0,0
+A0160,Female,30+,Tier-2 city,Tier-1,64.3,0,0
+A0161,Male,21-24,Rural,Tier-3,60.5,0,0
+A0162,Male,21-24,Metro,Tier-2,50.0,0,0
+A0163,Female,25-29,Tier-2 city,Tier-1,41.3,0,0
+A0164,Male,30+,Rural,Tier-3,32.9,0,0
+A0165,Male,25-29,Tier-2 city,Tier-1,59.3,0,0
+A0166,Female,25-29,Metro,Tier-3,56.8,0,0
+A0167,Male,21-24,Rural,Tier-2,66.1,0,0
+A0168,Female,25-29,Metro,Tier-3,58.8,1,0
+A0169,Female,25-29,Tier-2 city,Tier-1,73.3,0,1
+A0170,Male,21-24,Metro,Tier-2,78.4,0,1
+A0171,Female,30+,Tier-2 city,Tier-3,53.0,0,0
+A0172,Female,30+,Tier-2 city,Tier-3,55.0,0,0
+A0173,Female,30+,Tier-2 city,Tier-1,80.9,1,1
+A0174,Female,25-29,Tier-2 city,Tier-2,50.8,0,0
+A0175,Male,25-29,Metro,Tier-2,86.3,1,1
+A0176,Male,21-24,Tier-2 city,Tier-3,91.2,1,1
+A0177,Male,21-24,Rural,Tier-3,57.9,0,0
+A0178,Male,21-24,Tier-2 city,Tier-3,64.1,0,0
+A0179,Female,25-29,Metro,Tier-1,68.2,1,0
+A0180,Female,25-29,Metro,Tier-2,45.3,0,0
+A0181,Male,25-29,Metro,Tier-3,91.1,1,1
+A0182,Female,25-29,Rural,Tier-2,33.0,0,0
+A0183,Male,21-24,Metro,Tier-1,61.9,1,0
+A0184,Female,25-29,Metro,Tier-2,57.5,0,0
+A0185,Male,21-24,Rural,Tier-2,90.4,0,1
+A0186,Male,30+,Rural,Tier-3,63.7,0,0
+A0187,Female,21-24,Tier-2 city,Tier-2,42.4,0,0
+A0188,Female,21-24,Metro,Tier-3,69.9,0,0
+A0189,Female,21-24,Metro,Tier-3,66.8,0,0
+A0190,Female,25-29,Tier-2 city,Tier-1,80.5,1,1
+A0191,Male,21-24,Tier-2 city,Tier-1,38.1,1,0
+A0192,Male,25-29,Rural,Tier-1,76.3,0,1
+A0193,Male,25-29,Tier-2 city,Tier-2,77.5,1,1
+A0194,Female,21-24,Metro,Tier-1,53.3,1,0
+A0195,Female,21-24,Metro,Tier-2,49.5,1,0
+A0196,Male,25-29,Metro,Tier-2,53.3,0,0
+A0197,Male,21-24,Metro,Tier-1,77.4,1,1
+A0198,Female,30+,Tier-2 city,Tier-2,73.7,1,1
+A0199,Female,25-29,Rural,Tier-2,55.6,0,0
+A0200,Male,25-29,Tier-2 city,Tier-2,74.7,0,1
+A0201,Male,21-24,Tier-2 city,Tier-1,80.3,0,1
+A0202,Male,21-24,Tier-2 city,Tier-3,58.0,0,0
+A0203,Female,30+,Tier-2 city,Tier-1,78.8,1,1
+A0204,Female,21-24,Metro,Tier-2,56.6,1,0
+A0205,Female,25-29,Metro,Tier-3,57.2,0,0
+A0206,Female,21-24,Metro,Tier-3,60.3,0,0
+A0207,Male,25-29,Tier-2 city,Tier-2,66.3,0,0
+A0208,Female,21-24,Tier-2 city,Tier-2,33.3,0,0
+A0209,Female,25-29,Metro,Tier-3,47.3,0,0
+A0210,Female,25-29,Metro,Tier-3,29.3,0,0
+A0211,Female,21-24,Tier-2 city,Tier-2,70.9,1,1
+A0212,Male,21-24,Metro,Tier-2,79.7,0,1
+A0213,Male,25-29,Metro,Tier-3,82.4,1,1
+A0214,Female,21-24,Tier-2 city,Tier-3,34.5,0,0
+A0215,Male,21-24,Tier-2 city,Tier-1,62.7,1,0
+A0216,Female,25-29,Metro,Tier-1,45.4,0,0
+A0217,Female,21-24,Metro,Tier-2,43.1,0,0
+A0218,Male,21-24,Tier-2 city,Tier-2,54.0,0,0
+A0219,Male,21-24,Rural,Tier-3,43.8,0,0
+A0220,Male,30+,Metro,Tier-3,90.6,0,1
+A0221,Male,25-29,Metro,Tier-3,41.2,0,0
+A0222,Male,21-24,Metro,Tier-2,48.1,0,0
+A0223,Female,25-29,Rural,Tier-1,59.5,1,0
+A0224,Male,21-24,Metro,Tier-2,62.6,0,0
+A0225,Male,21-24,Rural,Tier-2,62.2,0,0
+A0226,Female,21-24,Tier-2 city,Tier-3,45.2,0,0
+A0227,Female,30+,Tier-2 city,Tier-1,65.2,0,0
+A0228,Male,21-24,Rural,Tier-2,65.7,0,0
+A0229,Male,30+,Tier-2 city,Tier-3,71.7,1,1
+A0230,Female,21-24,Tier-2 city,Tier-2,59.4,1,0
+A0231,Male,30+,Metro,Tier-3,75.2,1,1
+A0232,Male,25-29,Metro,Tier-3,41.7,0,0
+A0233,Male,30+,Metro,Tier-3,80.2,0,1
+A0234,Male,21-24,Metro,Tier-3,73.8,1,1
+A0235,Male,25-29,Tier-2 city,Tier-2,66.4,0,0
+A0236,Male,21-24,Metro,Tier-1,68.4,1,0
+A0237,Male,25-29,Rural,Tier-2,75.5,0,1
+A0238,Male,25-29,Metro,Tier-2,73.8,0,1
+A0239,Female,30+,Tier-2 city,Tier-3,47.3,0,0
+A0240,Male,21-24,Metro,Tier-2,77.4,1,1
+A0241,Male,25-29,Tier-2 city,Tier-2,65.0,1,0
+A0242,Male,25-29,Tier-2 city,Tier-3,78.2,0,1
+A0243,Female,21-24,Rural,Tier-3,67.5,0,0
+A0244,Female,21-24,Metro,Tier-3,48.1,0,0
+A0245,Male,21-24,Rural,Tier-2,46.6,1,0
+A0246,Female,21-24,Metro,Tier-1,67.9,0,0
+A0247,Male,25-29,Tier-2 city,Tier-2,77.2,1,1
+A0248,Male,21-24,Metro,Tier-3,41.0,0,0
+A0249,Female,21-24,Metro,Tier-3,57.1,0,0
+A0250,Male,21-24,Tier-2 city,Tier-1,76.7,1,1
+A0251,Male,25-29,Rural,Tier-1,56.8,0,0
+A0252,Female,21-24,Rural,Tier-3,86.9,0,1
+A0253,Female,25-29,Metro,Tier-2,71.3,1,1
+A0254,Male,25-29,Metro,Tier-3,79.0,1,1
+A0255,Male,30+,Metro,Tier-2,52.4,0,0
+A0256,Male,21-24,Metro,Tier-1,87.5,1,1
+A0257,Male,25-29,Tier-2 city,Tier-2,72.7,1,1
+A0258,Female,30+,Rural,Tier-2,67.6,1,0
+A0259,Female,25-29,Tier-2 city,Tier-1,73.2,0,1
+A0260,Male,21-24,Metro,Tier-1,66.5,1,0
+A0261,Male,25-29,Metro,Tier-1,81.9,1,1
+A0262,Female,21-24,Metro,Tier-2,61.3,1,0
+A0263,Female,21-24,Tier-2 city,Tier-2,59.1,1,0
+A0264,Male,25-29,Metro,Tier-3,60.2,1,0
+A0265,Female,30+,Metro,Tier-2,66.0,0,0
+A0266,Female,25-29,Metro,Tier-3,63.8,0,0
+A0267,Male,25-29,Tier-2 city,Tier-1,36.9,0,0
+A0268,Male,21-24,Metro,Tier-1,78.2,1,1
+A0269,Male,21-24,Tier-2 city,Tier-2,49.5,0,0
+A0270,Female,25-29,Rural,Tier-3,55.9,0,0
+A0271,Female,21-24,Rural,Tier-1,57.7,0,0
+A0272,Non-binary,30+,Metro,Tier-3,73.5,1,1
+A0273,Male,21-24,Metro,Tier-3,33.1,0,0
+A0274,Male,30+,Tier-2 city,Tier-3,43.1,0,0
+A0275,Male,25-29,Tier-2 city,Tier-2,96.3,0,1
+A0276,Male,21-24,Tier-2 city,Tier-1,81.1,1,1
+A0277,Female,25-29,Metro,Tier-2,86.8,0,1
+A0278,Male,21-24,Metro,Tier-3,58.8,0,0
+A0279,Female,21-24,Metro,Tier-2,79.9,1,1
+A0280,Female,30+,Rural,Tier-3,59.7,0,0
+A0281,Male,30+,Tier-2 city,Tier-3,56.4,0,0
+A0282,Male,25-29,Metro,Tier-2,37.0,0,0
+A0283,Female,25-29,Metro,Tier-1,61.4,1,0
+A0284,Male,25-29,Tier-2 city,Tier-1,58.7,0,0
+A0285,Male,30+,Tier-2 city,Tier-2,31.3,1,0
+A0286,Female,21-24,Metro,Tier-2,49.0,0,0
+A0287,Male,25-29,Metro,Tier-2,58.3,1,0
+A0288,Male,21-24,Rural,Tier-3,46.3,0,0
+A0289,Female,30+,Tier-2 city,Tier-1,73.0,1,1
+A0290,Female,25-29,Metro,Tier-3,57.9,0,0
+A0291,Male,21-24,Metro,Tier-1,66.8,1,0
+A0292,Female,21-24,Metro,Tier-1,79.1,1,1
+A0293,Male,21-24,Metro,Tier-2,67.7,1,0
+A0294,Female,25-29,Metro,Tier-1,43.3,0,0
+A0295,Female,30+,Rural,Tier-1,72.1,1,1
+A0296,Female,25-29,Tier-2 city,Tier-1,54.3,1,0
+A0297,Male,21-24,Metro,Tier-3,39.3,0,0
+A0298,Male,30+,Metro,Tier-3,59.5,1,0
+A0299,Male,25-29,Metro,Tier-2,68.9,0,0
+A0300,Female,21-24,Rural,Tier-2,68.1,0,0
+A0301,Female,21-24,Metro,Tier-1,39.6,0,0
+A0302,Female,21-24,Tier-2 city,Tier-1,62.7,1,0
+A0303,Female,21-24,Metro,Tier-2,76.6,1,1
+A0304,Female,30+,Metro,Tier-1,53.0,1,0
+A0305,Male,21-24,Tier-2 city,Tier-3,62.6,0,0
+A0306,Male,21-24,Metro,Tier-3,63.5,0,0
+A0307,Female,21-24,Tier-2 city,Tier-2,65.0,0,0
+A0308,Male,30+,Metro,Tier-1,78.2,1,1
+A0309,Female,21-24,Rural,Tier-3,64.5,0,0
+A0310,Male,21-24,Metro,Tier-2,44.4,0,0
+A0311,Female,21-24,Metro,Tier-2,47.7,0,0
+A0312,Male,21-24,Metro,Tier-2,65.8,0,0
+A0313,Female,21-24,Tier-2 city,Tier-2,34.4,0,0
+A0314,Female,25-29,Tier-2 city,Tier-1,62.6,1,0
+A0315,Male,21-24,Metro,Tier-1,63.8,1,0
+A0316,Male,25-29,Rural,Tier-1,69.5,1,0
+A0317,Male,21-24,Tier-2 city,Tier-3,56.8,0,0
+A0318,Female,21-24,Metro,Tier-3,63.5,1,0
+A0319,Female,30+,Rural,Tier-2,52.1,0,0
+A0320,Female,21-24,Metro,Tier-1,51.5,0,0
+A0321,Female,21-24,Metro,Tier-3,75.9,0,1
+A0322,Female,21-24,Metro,Tier-1,54.5,1,0
+A0323,Male,25-29,Metro,Tier-2,67.3,1,0
+A0324,Female,21-24,Metro,Tier-2,78.3,1,1
+A0325,Male,21-24,Tier-2 city,Tier-2,85.7,1,1
+A0326,Female,21-24,Tier-2 city,Tier-2,83.0,0,1
+A0327,Female,30+,Metro,Tier-3,53.8,1,0
+A0328,Male,25-29,Metro,Tier-3,41.0,0,0
+A0329,Female,21-24,Tier-2 city,Tier-2,58.2,0,0
+A0330,Male,21-24,Rural,Tier-2,55.8,0,0
+A0331,Male,21-24,Metro,Tier-2,61.4,1,0
+A0332,Male,21-24,Tier-2 city,Tier-3,58.6,0,0
+A0333,Male,25-29,Tier-2 city,Tier-3,60.5,0,0
+A0334,Male,25-29,Metro,Tier-3,36.5,0,0
+A0335,Male,21-24,Metro,Tier-1,67.0,0,0
+A0336,Male,21-24,Metro,Tier-1,89.0,1,1
+A0337,Female,21-24,Metro,Tier-1,87.6,1,1
+A0338,Male,21-24,Metro,Tier-2,70.9,0,1
+A0339,Male,25-29,Rural,Tier-3,72.5,0,1
+A0340,Female,30+,Tier-2 city,Tier-2,51.5,0,0
+A0341,Female,21-24,Rural,Tier-2,55.9,0,0
+A0342,Male,21-24,Rural,Tier-2,93.9,1,1
+A0343,Female,21-24,Tier-2 city,Tier-1,67.1,0,0
+A0344,Male,30+,Tier-2 city,Tier-2,80.7,0,1
+A0345,Male,30+,Tier-2 city,Tier-3,63.9,0,0
+A0346,Non-binary,25-29,Metro,Tier-1,70.6,1,1
+A0347,Female,25-29,Metro,Tier-3,73.7,0,1
+A0348,Female,21-24,Metro,Tier-2,71.9,1,1
+A0349,Female,21-24,Tier-2 city,Tier-3,47.6,0,0
+A0350,Male,25-29,Metro,Tier-3,59.2,1,0
+A0351,Female,21-24,Tier-2 city,Tier-3,93.1,0,1
+A0352,Male,30+,Metro,Tier-1,62.2,1,0
+A0353,Male,21-24,Tier-2 city,Tier-1,79.8,0,1
+A0354,Male,30+,Metro,Tier-2,60.9,1,0
+A0355,Female,25-29,Metro,Tier-2,45.3,0,0
+A0356,Female,21-24,Rural,Tier-3,50.9,0,0
+A0357,Female,25-29,Metro,Tier-3,41.1,0,0
+A0358,Female,21-24,Tier-2 city,Tier-1,36.6,0,0
+A0359,Female,21-24,Metro,Tier-3,57.7,0,0
+A0360,Female,21-24,Tier-2 city,Tier-2,51.8,0,0
+A0361,Female,25-29,Metro,Tier-2,42.6,0,0
+A0362,Female,21-24,Metro,Tier-1,51.1,0,0
+A0363,Male,21-24,Metro,Tier-2,53.9,1,0
+A0364,Male,25-29,Tier-2 city,Tier-3,69.3,0,0
+A0365,Male,25-29,Tier-2 city,Tier-3,69.6,1,0
+A0366,Male,25-29,Tier-2 city,Tier-3,64.0,0,0
+A0367,Male,30+,Rural,Tier-2,76.5,0,1
+A0368,Male,21-24,Metro,Tier-2,63.2,1,0
+A0369,Male,25-29,Tier-2 city,Tier-2,65.7,0,0
+A0370,Female,21-24,Metro,Tier-1,48.0,0,0
+A0371,Female,25-29,Metro,Tier-2,52.4,0,0
+A0372,Female,21-24,Metro,Tier-3,61.3,0,0
+A0373,Male,21-24,Metro,Tier-1,56.7,0,0
+A0374,Male,21-24,Tier-2 city,Tier-3,87.2,1,1
+A0375,Female,25-29,Metro,Tier-2,70.5,0,1
+A0376,Female,30+,Rural,Tier-1,71.9,1,1
+A0377,Female,25-29,Rural,Tier-3,60.1,0,0
+A0378,Female,25-29,Rural,Tier-2,67.9,0,0
+A0379,Female,25-29,Tier-2 city,Tier-3,83.8,0,1
+A0380,Female,21-24,Tier-2 city,Tier-2,52.8,1,0
+A0381,Male,21-24,Rural,Tier-3,79.6,1,1
+A0382,Male,25-29,Rural,Tier-1,41.5,1,0
+A0383,Male,25-29,Tier-2 city,Tier-3,70.4,0,1
+A0384,Male,21-24,Tier-2 city,Tier-2,76.5,0,1
+A0385,Female,21-24,Tier-2 city,Tier-2,76.3,1,1
+A0386,Male,25-29,Tier-2 city,Tier-2,75.6,0,1
+A0387,Male,21-24,Tier-2 city,Tier-3,42.0,0,0
+A0388,Female,30+,Tier-2 city,Tier-1,57.5,0,0
+A0389,Female,25-29,Rural,Tier-1,85.1,1,1
+A0390,Male,21-24,Rural,Tier-3,77.3,0,1
+A0391,Female,25-29,Metro,Tier-2,53.7,0,0
+A0392,Female,25-29,Rural,Tier-1,52.0,0,0
+A0393,Female,21-24,Metro,Tier-1,68.9,1,0
+A0394,Female,30+,Metro,Tier-3,60.7,0,0
+A0395,Male,21-24,Metro,Tier-1,59.7,0,0
+A0396,Male,21-24,Metro,Tier-2,52.1,0,0
+A0397,Male,21-24,Rural,Tier-3,66.3,0,0
+A0398,Male,21-24,Tier-2 city,Tier-1,74.1,1,1
+A0399,Female,21-24,Metro,Tier-1,62.4,1,0
+A0400,Male,30+,Metro,Tier-2,72.2,1,1
+A0401,Male,21-24,Metro,Tier-3,62.4,0,0
+A0402,Male,30+,Rural,Tier-1,99.8,1,1
+A0403,Male,21-24,Tier-2 city,Tier-3,71.7,0,1
+A0404,Female,21-24,Rural,Tier-2,81.8,1,1
+A0405,Female,21-24,Metro,Tier-3,39.2,0,0
+A0406,Male,25-29,Rural,Tier-1,53.1,1,0
+A0407,Male,25-29,Metro,Tier-2,59.9,1,0
+A0408,Male,21-24,Metro,Tier-3,50.8,0,0
+A0409,Male,21-24,Metro,Tier-3,32.1,0,0
+A0410,Female,30+,Tier-2 city,Tier-3,57.1,0,0
+A0411,Male,21-24,Metro,Tier-3,84.7,0,1
+A0412,Male,25-29,Tier-2 city,Tier-2,68.5,1,0
+A0413,Female,21-24,Tier-2 city,Tier-3,69.7,1,0
+A0414,Male,21-24,Tier-2 city,Tier-1,76.4,1,1
+A0415,Male,21-24,Metro,Tier-2,59.3,1,0
+A0416,Male,21-24,Metro,Tier-2,78.5,0,1
+A0417,Male,30+,Metro,Tier-1,63.6,1,0
+A0418,Female,21-24,Rural,Tier-3,71.7,0,1
+A0419,Female,25-29,Metro,Tier-2,48.3,0,0
+A0420,Male,21-24,Metro,Tier-3,63.2,0,0
+A0421,Non-binary,21-24,Metro,Tier-2,67.8,0,0
+A0422,Male,25-29,Metro,Tier-2,51.8,1,0
+A0423,Male,25-29,Tier-2 city,Tier-1,47.2,0,0
+A0424,Male,21-24,Metro,Tier-2,39.5,0,0
+A0425,Male,21-24,Metro,Tier-2,68.0,1,0
+A0426,Male,21-24,Metro,Tier-3,65.3,0,0
+A0427,Male,25-29,Tier-2 city,Tier-2,74.8,1,1
+A0428,Female,25-29,Metro,Tier-2,70.1,0,1
+A0429,Male,21-24,Metro,Tier-2,89.4,1,1
+A0430,Male,21-24,Rural,Tier-2,66.6,1,0
+A0431,Male,30+,Metro,Tier-3,74.2,1,1
+A0432,Female,25-29,Metro,Tier-3,67.2,1,0
+A0433,Male,30+,Metro,Tier-2,64.2,0,0
+A0434,Male,21-24,Tier-2 city,Tier-2,55.7,0,0
+A0435,Male,25-29,Rural,Tier-3,71.0,0,1
+A0436,Male,25-29,Tier-2 city,Tier-2,63.2,0,0
+A0437,Female,30+,Tier-2 city,Tier-3,47.7,0,0
+A0438,Male,21-24,Metro,Tier-3,64.6,0,0
+A0439,Female,21-24,Tier-2 city,Tier-3,47.1,0,0
+A0440,Female,21-24,Metro,Tier-1,64.8,0,0
+A0441,Male,21-24,Metro,Tier-2,77.5,0,1
+A0442,Female,21-24,Metro,Tier-2,72.3,0,1
+A0443,Female,25-29,Tier-2 city,Tier-2,43.3,0,0
+A0444,Female,21-24,Metro,Tier-1,41.5,1,0
+A0445,Female,21-24,Metro,Tier-3,28.2,0,0
+A0446,Male,30+,Metro,Tier-1,56.9,0,0
+A0447,Non-binary,21-24,Tier-2 city,Tier-3,61.6,0,0
+A0448,Male,21-24,Metro,Tier-2,36.4,1,0
+A0449,Male,21-24,Metro,Tier-3,53.0,0,0
+A0450,Female,25-29,Tier-2 city,Tier-3,37.2,0,0
+A0451,Male,21-24,Tier-2 city,Tier-3,52.9,0,0
+A0452,Male,25-29,Tier-2 city,Tier-2,78.1,0,1
+A0453,Male,21-24,Tier-2 city,Tier-3,63.9,0,0
+A0454,Male,30+,Metro,Tier-1,84.4,1,1
+A0455,Male,21-24,Rural,Tier-1,71.6,1,1
+A0456,Male,25-29,Tier-2 city,Tier-1,55.6,1,0
+A0457,Male,21-24,Metro,Tier-3,84.0,0,1
+A0458,Male,30+,Tier-2 city,Tier-3,74.4,0,1
+A0459,Male,21-24,Tier-2 city,Tier-3,37.8,0,0
+A0460,Male,25-29,Metro,Tier-1,57.1,0,0
+A0461,Male,25-29,Tier-2 city,Tier-3,51.6,0,0
+A0462,Female,21-24,Metro,Tier-3,58.9,0,0
+A0463,Female,25-29,Tier-2 city,Tier-2,66.4,0,0
+A0464,Male,25-29,Tier-2 city,Tier-1,77.7,1,1
+A0465,Male,21-24,Tier-2 city,Tier-2,65.7,0,0
+A0466,Male,25-29,Tier-2 city,Tier-2,57.9,0,0
+A0467,Female,25-29,Tier-2 city,Tier-1,74.5,1,1
+A0468,Female,21-24,Tier-2 city,Tier-2,57.9,0,0
+A0469,Female,25-29,Metro,Tier-3,70.9,0,1
+A0470,Female,21-24,Metro,Tier-1,59.1,0,0
+A0471,Male,30+,Tier-2 city,Tier-1,79.7,0,1
+A0472,Female,25-29,Metro,Tier-3,63.2,0,0
+A0473,Female,21-24,Tier-2 city,Tier-1,54.3,1,0
+A0474,Female,30+,Rural,Tier-1,44.3,0,0
+A0475,Male,21-24,Tier-2 city,Tier-3,63.8,0,0
+A0476,Male,25-29,Metro,Tier-3,55.1,0,0
+A0477,Male,25-29,Rural,Tier-2,81.0,0,1
+A0478,Female,21-24,Tier-2 city,Tier-3,70.8,0,1
+A0479,Female,21-24,Rural,Tier-3,65.7,0,0
+A0480,Male,25-29,Metro,Tier-1,57.7,1,0
+A0481,Female,21-24,Tier-2 city,Tier-2,70.5,1,1
+A0482,Male,25-29,Tier-2 city,Tier-1,48.3,0,0
+A0483,Female,30+,Tier-2 city,Tier-2,33.9,1,0
+A0484,Male,25-29,Rural,Tier-1,44.4,0,0
+A0485,Male,25-29,Metro,Tier-1,63.1,0,0
+A0486,Male,25-29,Tier-2 city,Tier-2,91.7,0,1
+A0487,Female,25-29,Tier-2 city,Tier-2,77.2,1,1
+A0488,Male,21-24,Metro,Tier-1,64.2,0,0
+A0489,Male,21-24,Metro,Tier-1,57.9,0,0
+A0490,Male,21-24,Tier-2 city,Tier-1,58.0,1,0
+A0491,Female,30+,Rural,Tier-1,61.4,1,0
+A0492,Female,25-29,Rural,Tier-2,59.1,0,0
+A0493,Male,25-29,Tier-2 city,Tier-1,81.5,1,1
+A0494,Female,30+,Tier-2 city,Tier-3,38.7,0,0
+A0495,Male,21-24,Tier-2 city,Tier-2,77.6,1,1
+A0496,Female,21-24,Tier-2 city,Tier-2,56.5,1,0
+A0497,Male,25-29,Tier-2 city,Tier-3,45.2,0,0
+A0498,Male,21-24,Tier-2 city,Tier-1,53.1,0,0
+A0499,Female,25-29,Metro,Tier-2,60.1,1,0
+A0500,Female,21-24,Metro,Tier-2,80.7,1,1
+A0501,Male,21-24,Rural,Tier-1,52.2,0,0
+A0502,Male,30+,Metro,Tier-1,83.0,1,1
+A0503,Male,25-29,Rural,Tier-2,53.6,0,0
+A0504,Male,21-24,Tier-2 city,Tier-1,82.2,1,1
+A0505,Female,21-24,Metro,Tier-3,57.9,1,0
+A0506,Female,25-29,Tier-2 city,Tier-1,94.0,1,1
+A0507,Female,25-29,Rural,Tier-3,73.5,1,1
+A0508,Male,21-24,Tier-2 city,Tier-2,58.6,0,0
+A0509,Female,21-24,Tier-2 city,Tier-1,86.5,1,1
+A0510,Non-binary,21-24,Tier-2 city,Tier-2,64.4,0,0
+A0511,Male,21-24,Tier-2 city,Tier-3,46.0,0,0
+A0512,Female,21-24,Tier-2 city,Tier-3,57.8,0,0
+A0513,Male,25-29,Tier-2 city,Tier-2,42.9,0,0
+A0514,Female,21-24,Rural,Tier-3,44.6,0,0
+A0515,Female,21-24,Tier-2 city,Tier-2,75.6,1,1
+A0516,Female,30+,Tier-2 city,Tier-2,65.6,1,0
+A0517,Male,30+,Tier-2 city,Tier-3,50.9,0,0
+A0518,Male,25-29,Tier-2 city,Tier-2,68.8,0,0
+A0519,Female,25-29,Tier-2 city,Tier-1,51.2,0,0
+A0520,Male,21-24,Metro,Tier-3,65.9,0,0
+A0521,Male,21-24,Tier-2 city,Tier-1,65.9,1,0
+A0522,Male,25-29,Rural,Tier-2,74.9,1,1
+A0523,Male,21-24,Metro,Tier-3,25.7,0,0
+A0524,Male,21-24,Metro,Tier-2,69.0,0,0
+A0525,Male,21-24,Metro,Tier-2,82.0,0,1
+A0526,Male,21-24,Rural,Tier-2,81.0,1,1
+A0527,Female,25-29,Tier-2 city,Tier-3,74.0,1,1
+A0528,Male,21-24,Metro,Tier-3,62.2,0,0
+A0529,Female,30+,Tier-2 city,Tier-2,60.6,0,0
+A0530,Male,25-29,Rural,Tier-3,34.4,0,0
+A0531,Female,21-24,Rural,Tier-3,50.9,0,0
+A0532,Male,21-24,Metro,Tier-2,57.3,0,0
+A0533,Female,25-29,Metro,Tier-1,42.0,0,0
+A0534,Male,21-24,Tier-2 city,Tier-3,36.8,0,0
+A0535,Male,25-29,Tier-2 city,Tier-3,51.8,0,0
+A0536,Female,21-24,Metro,Tier-2,39.2,0,0
+A0537,Female,25-29,Tier-2 city,Tier-1,59.9,1,0
+A0538,Female,30+,Rural,Tier-1,39.5,0,0
+A0539,Female,21-24,Metro,Tier-3,65.7,0,0
+A0540,Male,21-24,Metro,Tier-1,52.0,1,0
+A0541,Non-binary,21-24,Tier-2 city,Tier-2,49.3,0,0
+A0542,Male,30+,Metro,Tier-2,58.3,1,0
+A0543,Female,21-24,Tier-2 city,Tier-1,55.0,1,0
+A0544,Female,25-29,Metro,Tier-2,64.8,0,0
+A0545,Female,30+,Metro,Tier-1,58.8,1,0
+A0546,Male,21-24,Tier-2 city,Tier-2,59.3,0,0
+A0547,Male,21-24,Tier-2 city,Tier-2,54.1,0,0
+A0548,Female,21-24,Metro,Tier-3,51.3,0,0
+A0549,Female,25-29,Tier-2 city,Tier-3,66.6,0,0
+A0550,Female,21-24,Tier-2 city,Tier-2,55.7,0,0
+A0551,Non-binary,21-24,Tier-2 city,Tier-2,29.8,0,0
+A0552,Female,21-24,Rural,Tier-3,57.6,0,0
+A0553,Male,25-29,Metro,Tier-2,56.8,0,0
+A0554,Female,21-24,Metro,Tier-1,73.7,1,1
+A0555,Female,30+,Tier-2 city,Tier-2,83.1,1,1
+A0556,Male,21-24,Metro,Tier-3,96.8,1,1
+A0557,Male,30+,Tier-2 city,Tier-2,53.8,0,0
+A0558,Female,21-24,Metro,Tier-3,72.6,0,1
+A0559,Non-binary,21-24,Tier-2 city,Tier-1,72.3,1,1
+A0560,Female,21-24,Rural,Tier-2,36.6,0,0
+A0561,Female,25-29,Metro,Tier-1,33.9,0,0
+A0562,Female,25-29,Metro,Tier-3,32.6,0,0
+A0563,Male,21-24,Metro,Tier-3,62.9,1,0
+A0564,Female,25-29,Metro,Tier-3,52.5,0,0
+A0565,Female,21-24,Metro,Tier-2,79.9,1,1
+A0566,Male,25-29,Rural,Tier-3,56.1,0,0
+A0567,Female,25-29,Rural,Tier-1,81.4,1,1
+A0568,Female,21-24,Metro,Tier-3,70.7,0,1
+A0569,Female,21-24,Metro,Tier-1,92.1,1,1
+A0570,Male,21-24,Tier-2 city,Tier-3,29.8,0,0
+A0571,Female,21-24,Tier-2 city,Tier-2,75.2,1,1
+A0572,Male,30+,Metro,Tier-2,56.6,0,0
+A0573,Male,21-24,Metro,Tier-2,66.9,0,0
+A0574,Male,21-24,Metro,Tier-2,70.6,0,1
+A0575,Male,21-24,Rural,Tier-3,52.7,0,0
+A0576,Male,25-29,Rural,Tier-1,47.0,0,0
+A0577,Female,21-24,Metro,Tier-2,83.2,1,1
+A0578,Male,25-29,Rural,Tier-2,68.7,1,0
+A0579,Male,25-29,Metro,Tier-1,77.7,1,1
+A0580,Female,21-24,Rural,Tier-3,82.8,1,1
+A0581,Male,25-29,Tier-2 city,Tier-1,100.0,1,1
+A0582,Female,25-29,Metro,Tier-1,67.3,0,0
+A0583,Non-binary,21-24,Tier-2 city,Tier-1,51.6,1,0
+A0584,Male,25-29,Tier-2 city,Tier-1,65.6,1,0
+A0585,Male,21-24,Tier-2 city,Tier-1,78.9,1,1
+A0586,Male,21-24,Rural,Tier-2,55.8,0,0
+A0587,Male,25-29,Tier-2 city,Tier-3,51.8,0,0
+A0588,Female,21-24,Tier-2 city,Tier-3,33.6,1,0
+A0589,Male,21-24,Metro,Tier-3,65.2,0,0
+A0590,Male,21-24,Rural,Tier-1,61.1,0,0
+A0591,Male,25-29,Metro,Tier-3,56.8,0,0
+A0592,Male,21-24,Tier-2 city,Tier-2,72.2,0,1
+A0593,Male,21-24,Metro,Tier-3,63.3,0,0
+A0594,Male,30+,Rural,Tier-3,70.1,0,1
+A0595,Female,21-24,Tier-2 city,Tier-1,100.0,1,1
+A0596,Female,21-24,Rural,Tier-3,78.6,0,1
+A0597,Male,25-29,Metro,Tier-1,64.6,0,0
+A0598,Female,25-29,Tier-2 city,Tier-2,63.6,1,0
+A0599,Female,25-29,Rural,Tier-2,55.9,0,0
+A0600,Male,25-29,Metro,Tier-2,64.5,1,0

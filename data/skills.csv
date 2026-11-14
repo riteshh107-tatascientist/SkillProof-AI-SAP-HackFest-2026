@@ -1,0 +1,59 @@
+skill,category,synonyms,related
+Python,Programming,py|python3,Pandas|NumPy|Scikit-learn
+Java,Programming,core java,OOP|SQL
+JavaScript,Programming,js|es6|ecmascript,React|Node.js|TypeScript
+TypeScript,Programming,,JavaScript|React
+C++,Programming,cpp,Data Structures|Algorithms
+C#,Programming,csharp,Unity|OOP
+SQL,Databases,mysql|t-sql|structured query language,PostgreSQL|SQLite|Data Analysis
+SQLite,Databases,,SQL
+PostgreSQL,Databases,postgres,SQL
+MongoDB,Databases,mongo|nosql,Node.js
+Pandas,Data & ML,,Python|NumPy|Data Analysis
+NumPy,Data & ML,,Python|Pandas
+Scikit-learn,Data & ML,sklearn|scikit learn,Machine Learning|Python
+Machine Learning,Data & ML,ml|predictive modelling|predictive modeling,Scikit-learn|Statistics|Deep Learning
+Deep Learning,Data & ML,neural networks|cnn|lstm,TensorFlow|PyTorch|Machine Learning
+TensorFlow,Data & ML,keras,Deep Learning
+PyTorch,Data & ML,torch,Deep Learning
+NLP,Data & ML,natural language processing|text mining,Machine Learning|Generative AI
+Computer Vision,Data & ML,opencv|mediapipe|image processing,Deep Learning
+Data Analysis,Data & ML,data analytics|eda|exploratory data analysis,Pandas|Statistics|Data Visualization
+Data Visualization,Data & ML,plotly|matplotlib|seaborn|power bi|tableau|dashboards,Data Analysis
+Statistics,Data & ML,statistical analysis|hypothesis testing,Data Analysis|R
+R,Data & ML,r programming|rstudio,Statistics
+Generative AI,Data & ML,genai|llm|llms|large language models|prompt engineering|gemini api|openai api,NLP
+Data Engineering,Data & ML,etl|data pipelines|data pipeline|airflow|apache spark,SQL|Python
+Streamlit,Web & Cloud,,Python|Data Visualization
+Flask,Web & Cloud,,Python|REST API
+FastAPI,Web & Cloud,,Python|REST API
+Django,Web & Cloud,,Python|REST API
+REST API,Web & Cloud,restful|api development|apis|rest apis,Flask|Node.js
+React,Web & Cloud,reactjs|react.js,JavaScript|HTML/CSS
+Next.js,Web & Cloud,nextjs,React
+Node.js,Web & Cloud,nodejs|express.js,JavaScript|REST API
+HTML/CSS,Web & Cloud,html|css|html5|css3|tailwind|tailwind css,JavaScript
+Cloud Computing,Web & Cloud,aws|azure|gcp|vercel|supabase,Docker
+Docker,Tools & DevOps,containers|containerization,Cloud Computing|Linux
+Git,Tools & DevOps,github|version control|gitlab,CI/CD
+CI/CD,Tools & DevOps,github actions|jenkins|continuous integration,Git|Docker
+Linux,Tools & DevOps,ubuntu|bash|shell scripting,Docker
+Testing,Tools & DevOps,pytest|unit testing|unittest|test automation|selenium,Python
+Data Structures,Computer Science,dsa|data structures and algorithms,Algorithms
+Algorithms,Computer Science,competitive programming,Data Structures
+OOP,Computer Science,object oriented programming|object-oriented programming,Java|C++
+Computer Networks,Computer Science,networking|tcp/ip,Cloud Computing|Cybersecurity
+SAP,Enterprise,sap erp|s/4hana|sap btp|sap abap|abap|successfactors|sap fiori,ERP|SQL
+ERP,Enterprise,enterprise resource planning|erp systems,SAP|Business Analysis
+Business Analysis,Enterprise,requirements gathering|business analyst|stakeholder analysis,Excel|ERP
+Excel,Enterprise,ms excel|advanced excel|excel formulas|spreadsheets|vlookup|pivot tables,Data Analysis
+Project Management,Enterprise,agile|scrum|jira|kanban,Communication|Leadership
+Unity,Game Development,unity3d|unity 3d,C#|Game Design
+Game Design,Game Development,gameplay design|game development,Unity
+UI/UX Design,Design,ui design|ux design|figma|wireframing|user research,HTML/CSS
+Communication,Soft Skills,public speaking|presentation skills|written communication|presentations,Teamwork
+Teamwork,Soft Skills,collaboration|team player|team collaboration,Communication
+Leadership,Soft Skills,team lead|led a team|mentoring|mentored,Teamwork|Project Management
+Problem Solving,Soft Skills,analytical thinking|critical thinking|troubleshooting,Algorithms
+Adaptability,Soft Skills,quick learner|learning agility|self-learner|fast learner,Problem Solving
+Cybersecurity,Security,infosec|network security|ethical hacking|owasp|penetration testing,Computer Networks|Linux

@@ -1,0 +1,38 @@
+skill,title,provider,type,hours,free,url
+Python,Python Official Tutorial,python.org,Docs,10,Yes,https://docs.python.org/3/tutorial/
+Pandas,10 Minutes to pandas,pandas.pydata.org,Docs,3,Yes,https://pandas.pydata.org/docs/user_guide/10min.html
+NumPy,NumPy Absolute Beginners,numpy.org,Docs,3,Yes,https://numpy.org/doc/stable/user/absolute_beginners.html
+SQL,SQLBolt Interactive Lessons,sqlbolt.com,Interactive,6,Yes,https://sqlbolt.com/
+PostgreSQL,PostgreSQL Tutorial,postgresql.org,Docs,6,Yes,https://www.postgresql.org/docs/current/tutorial.html
+Machine Learning,Kaggle Learn: Intro to ML,kaggle.com,Course,4,Yes,https://www.kaggle.com/learn/intro-to-machine-learning
+Scikit-learn,scikit-learn User Guide,scikit-learn.org,Docs,8,Yes,https://scikit-learn.org/stable/user_guide.html
+Deep Learning,Kaggle Learn: Intro to Deep Learning,kaggle.com,Course,4,Yes,https://www.kaggle.com/learn/intro-to-deep-learning
+TensorFlow,TensorFlow Tutorials,tensorflow.org,Docs,8,Yes,https://www.tensorflow.org/tutorials
+PyTorch,PyTorch Tutorials,pytorch.org,Docs,8,Yes,https://pytorch.org/tutorials/
+NLP,Hugging Face LLM/NLP Course,huggingface.co,Course,10,Yes,https://huggingface.co/learn
+Generative AI,Google Cloud Skills Boost: Generative AI,cloudskillsboost.google,Course,6,Mixed,https://www.cloudskillsboost.google/
+Data Analysis,Kaggle Learn: Data Cleaning,kaggle.com,Course,4,Yes,https://www.kaggle.com/learn/data-cleaning
+Data Visualization,Plotly Python Documentation,plotly.com,Docs,4,Yes,https://plotly.com/python/
+Statistics,Khan Academy Statistics and Probability,khanacademy.org,Course,12,Yes,https://www.khanacademy.org/math/statistics-probability
+R,R for Data Science (2e),r4ds.hadley.nz,Book,12,Yes,https://r4ds.hadley.nz/
+Streamlit,Streamlit Documentation,docs.streamlit.io,Docs,3,Yes,https://docs.streamlit.io/
+FastAPI,FastAPI Tutorial,fastapi.tiangolo.com,Docs,4,Yes,https://fastapi.tiangolo.com/tutorial/
+Flask,Flask Quickstart,flask.palletsprojects.com,Docs,3,Yes,https://flask.palletsprojects.com/
+React,Learn React,react.dev,Docs,8,Yes,https://react.dev/learn
+Next.js,Learn Next.js,nextjs.org,Course,6,Yes,https://nextjs.org/learn
+Node.js,Learn Node.js,nodejs.org,Docs,5,Yes,https://nodejs.org/en/learn
+JavaScript,MDN JavaScript Guide,developer.mozilla.org,Docs,10,Yes,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+HTML/CSS,MDN Learn Web Development,developer.mozilla.org,Docs,10,Yes,https://developer.mozilla.org/en-US/docs/Learn
+Docker,Docker Get Started,docs.docker.com,Docs,3,Yes,https://docs.docker.com/get-started/
+Git,Pro Git Book,git-scm.com,Book,6,Yes,https://git-scm.com/book
+Linux,Linux Journey,linuxjourney.com,Interactive,8,Yes,https://linuxjourney.com/
+Testing,pytest Getting Started,docs.pytest.org,Docs,2,Yes,https://docs.pytest.org/en/stable/getting-started.html
+Data Structures,CS50x Introduction to CS,cs50.harvard.edu,Course,20,Yes,https://cs50.harvard.edu/x/
+Algorithms,Practice problems on LeetCode,leetcode.com,Practice,15,Mixed,https://leetcode.com/
+SAP,SAP Learning (official),learning.sap.com,Course,10,Mixed,https://learning.sap.com/
+Unity,Unity Learn,learn.unity.com,Course,12,Yes,https://learn.unity.com/
+UI/UX Design,Figma Learn Design,figma.com,Course,5,Yes,https://www.figma.com/resources/learn-design/
+Cybersecurity,OWASP Top Ten,owasp.org,Docs,3,Yes,https://owasp.org/www-project-top-ten/
+Computer Vision,OpenCV Tutorials,docs.opencv.org,Docs,6,Yes,https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+MongoDB,MongoDB University,learn.mongodb.com,Course,6,Yes,https://learn.mongodb.com/
+Communication,Practice: record a 3-minute walkthrough of your best project and ask a peer for feedback,self-practice,Practice,2,Yes,

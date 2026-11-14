@@ -1,0 +1,284 @@
+candidate_id,name,headline,education,target_job_id,true_skills,resume_text
+SYN-001,Kabir Joshi,Aspiring Data Analyst,BCA,1,Data Analysis|Docker|Excel|SQL|Statistics,"SUMMARY
+B.Tech IT student with hands-on project work.
+SKILLS
+containerization, excel formulas
+PROJECTS
+Designed a prototype using exploratory data analysis and SQL, improving turnaround by 17%.
+Designed a internal tool using Statistics, improving turnaround by 48%."
+SYN-002,Vihaan Das,Aspiring Machine Learning Engineer,B.Tech ECE,2,Adaptability|Deep Learning|Docker|Git|HTML/CSS|Machine Learning|NLP|OOP|Scikit-learn|Statistics|Testing,"SUMMARY
+MCA student with hands-on project work.
+SKILLS
+fast learner, Docker, gitlab, HTML/CSS, OOP, Scikit-learn
+PROJECTS
+Designed a web application using cnn and ml, improving turnaround by 51%.
+Automated a prototype using NLP and Statistics, improving turnaround by 33%.
+Developed a analysis pipeline using Testing, improving turnaround by 39%."
+SYN-003,Arjun Iyer,Aspiring Python Developer,B.Sc Computer Science,3,Django|Git|NumPy|OOP|Python|REST API|SQL|Testing,"SUMMARY
+BCA student with hands-on project work.
+SKILLS
+NumPy, object oriented programming, python3, REST API, SQL
+PROJECTS
+Built a internal tool using Django and Git, improving turnaround by 25%.
+Built a internal tool using selenium, improving turnaround by 27%."
+SYN-004,Arjun Bose,Aspiring Full-Stack Developer,BCA,4,Adaptability|Docker|HTML/CSS|JavaScript|Node.js|React|SAP|SQL,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Adaptability, containers, HTML/CSS, JavaScript, t-sql
+PROJECTS
+Deployed a analysis pipeline using Node.js and React, improving turnaround by 11%.
+Automated a prototype using sap btp, improving turnaround by 38%.
+Currently curious about MongoDB and planning to explore it."
+SYN-005,Pooja Das,Aspiring SAP Business Analyst,BCA,5,Communication|Docker|ERP|Excel|SQL,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+presentation skills, Docker, pivot tables
+PROJECTS
+Built a web application using ERP and structured query language, improving turnaround by 18%.
+Currently curious about Scikit-learn and planning to explore it."
+SYN-006,Neel Rao,Aspiring Cloud & DevOps Engineer,B.Tech IT,6,CI/CD|Cloud Computing|Docker|Git|NumPy|Python|REST API,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+github actions, Cloud Computing, Docker
+PROJECTS
+Designed a internal tool using Git and NumPy, improving turnaround by 52%.
+Developed a dashboard using Python and api development, improving turnaround by 17%."
+SYN-007,Kabir Nair,Aspiring Data Engineer,MCA,7,Cloud Computing|Data Engineering|Docker|Git|Linux|Python|SQL,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+version control, t-sql
+PROJECTS
+Built a dashboard using Cloud Computing and Data Engineering, improving turnaround by 59%.
+Implemented a prototype using Docker and ubuntu, improving turnaround by 11%.
+Implemented a dashboard using python3, improving turnaround by 30%."
+SYN-008,Neel Menon,Aspiring Generative AI Engineer,B.Tech ECE,8,Computer Networks|Data Engineering|Generative AI|Git|Machine Learning|NLP|PyTorch|Python|REST API,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+tcp/ip, genai, NLP, torch
+PROJECTS
+Deployed a dashboard using etl and github, improving turnaround by 43%.
+Implemented a internal tool using Machine Learning and Python, improving turnaround by 11%.
+Designed a internal tool using rest apis, improving turnaround by 34%."
+SYN-009,Rohan Das,Aspiring QA Automation Engineer,B.Tech CSE (Data Science),9,CI/CD|Communication|Deep Learning|Git|Problem Solving|Python|Testing,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+github actions, Communication, Deep Learning, Git, troubleshooting
+PROJECTS
+Automated a mobile feature using py and Testing, improving turnaround by 25%."
+SYN-010,Kavya Patel,Aspiring UI/UX Designer,B.Sc Computer Science,10,Docker|UI/UX Design,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+UI/UX Design
+PROJECTS
+Designed a mobile feature using Docker, improving turnaround by 40%."
+SYN-011,Dev Das,Aspiring Game Developer,B.Tech CSE,11,C#|Flask|Game Design|JavaScript|OOP|Unity,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Flask, Game Design, OOP
+PROJECTS
+Deployed a internal tool using csharp and JavaScript, improving turnaround by 34%.
+Automated a internal tool using Unity, improving turnaround by 52%.
+Currently curious about Docker and planning to explore it."
+SYN-012,Pooja Gupta,Aspiring Cybersecurity Analyst,B.Tech CSE,12,Computer Networks|Cybersecurity|Linux|Problem Solving|Python,"SUMMARY
+B.Sc Computer Science student with hands-on project work.
+SKILLS
+Computer Networks, Linux, Python
+PROJECTS
+Designed a analysis pipeline using Cybersecurity and Problem Solving, improving turnaround by 44%.
+Currently curious about Cloud Computing and planning to explore it."
+SYN-013,Nisha Menon,Aspiring Data Analyst,MCA,1,C++|Communication|Data Analysis|Data Visualization|Generative AI|SQL|Statistics,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+C++, Data Visualization, Generative AI, SQL, hypothesis testing
+PROJECTS
+Built a internal tool using Communication and Data Analysis, improving turnaround by 53%."
+SYN-014,Ishaan Bose,Aspiring Machine Learning Engineer,B.Tech IT,2,Business Analysis|Cybersecurity|Docker|Git|Machine Learning|Python,"SUMMARY
+B.Tech IT student with hands-on project work.
+SKILLS
+Cybersecurity, Docker, Git, Machine Learning
+PROJECTS
+Developed a web application using Business Analysis and Python, improving turnaround by 57%.
+Currently curious about Data Analysis and planning to explore it."
+SYN-015,Karan Iyer,Aspiring Python Developer,B.Sc Computer Science,3,CI/CD|Flask|Git|OOP|REST API|Testing,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+Flask, OOP, REST API, Testing
+PROJECTS
+Deployed a internal tool using CI/CD and Git, improving turnaround by 51%.
+Currently curious about Streamlit and planning to explore it."
+SYN-016,Dev Nair,Aspiring Full-Stack Developer,B.Tech CSE (Data Science),4,Data Structures|Docker|Git|HTML/CSS|JavaScript|Node.js|REST API|React,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Data Structures, github, HTML/CSS, js, Node.js, api development
+PROJECTS
+Deployed a analysis pipeline using containerization and React, improving turnaround by 53%."
+SYN-017,Nisha Iyer,Aspiring SAP Business Analyst,B.Sc Computer Science,5,Business Analysis|Communication|ERP|Excel|R|SAP|Statistics,"SUMMARY
+BCA student with hands-on project work.
+SKILLS
+Business Analysis, presentations, erp systems, vlookup, rstudio, statistical analysis
+PROJECTS
+Designed a dashboard using SAP, improving turnaround by 51%."
+SYN-018,Isha Bose,Aspiring Cloud & DevOps Engineer,B.Tech ECE,6,C++|Cloud Computing|Git|NumPy,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+Git, NumPy
+PROJECTS
+Designed a mobile feature using cpp and azure, improving turnaround by 23%."
+SYN-019,Riya Khan,Aspiring Data Engineer,B.Tech CSE (Data Science),7,Cloud Computing|Python|SQL|Streamlit|Testing,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+py, Testing
+PROJECTS
+Built a analysis pipeline using Cloud Computing and SQL, improving turnaround by 21%.
+Developed a analysis pipeline using Streamlit, improving turnaround by 44%."
+SYN-020,Karan Joshi,Aspiring Generative AI Engineer,B.Tech IT,8,Adaptability|Cloud Computing|Generative AI|Git|Machine Learning|NLP|Python|REST API|Testing,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+Adaptability, Generative AI, ml, py, REST API, test automation
+PROJECTS
+Developed a web application using vercel and github, improving turnaround by 44%.
+Designed a mobile feature using NLP, improving turnaround by 33%."
+SYN-021,Karan Rao,Aspiring QA Automation Engineer,MCA,9,CI/CD|Communication|Computer Networks|Linux|Problem Solving|Python|SAP|Testing,"SUMMARY
+B.Sc Computer Science student with hands-on project work.
+SKILLS
+CI/CD, Communication, shell scripting, SAP
+PROJECTS
+Built a prototype using Computer Networks and Problem Solving, improving turnaround by 32%.
+Designed a web application using py and Testing, improving turnaround by 32%."
+SYN-022,Arjun Mishra,Aspiring UI/UX Designer,B.Tech ECE,10,Adaptability|Cloud Computing|Communication|HTML/CSS|Problem Solving|R|UI/UX Design,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+HTML/CSS, Problem Solving, r programming
+PROJECTS
+Designed a mobile feature using Adaptability and Cloud Computing, improving turnaround by 49%.
+Designed a internal tool using written communication and ui design, improving turnaround by 35%.
+Currently curious about CI/CD and planning to explore it."
+SYN-023,Karan Verma,Aspiring Game Developer,B.Tech ECE,11,Algorithms|Data Analysis|Game Design|Git|MongoDB|OOP|React|Unity,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Algorithms, Game Design, Git, MongoDB, React, Unity
+PROJECTS
+Built a prototype using Data Analysis and OOP, improving turnaround by 12%."
+SYN-024,Karan Mishra,Aspiring Cybersecurity Analyst,B.Tech CSE,12,Communication|Computer Networks|Cybersecurity|HTML/CSS|Linux|Pandas|Problem Solving,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Computer Networks, Cybersecurity, HTML/CSS, Linux, Pandas, analytical thinking
+PROJECTS
+Implemented a web application using Communication, improving turnaround by 33%.
+Currently curious about NumPy and planning to explore it."
+SYN-025,Dev Joshi,Aspiring Data Analyst,MCA,1,Excel|Node.js|Pandas|REST API|SQL|Teamwork,"SUMMARY
+BCA student with hands-on project work.
+SKILLS
+nodejs, mysql
+PROJECTS
+Implemented a web application using ms excel and Pandas, improving turnaround by 28%.
+Automated a mobile feature using apis and team collaboration, improving turnaround by 56%."
+SYN-026,Tara Rao,Aspiring Machine Learning Engineer,B.Tech IT,2,C#|Computer Networks|Django|Docker|Git|Machine Learning|NLP|Python|Scikit-learn|Statistics,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Computer Networks, Django, containers, Machine Learning, Scikit-learn, Statistics
+PROJECTS
+Deployed a analysis pipeline using csharp and version control, improving turnaround by 15%.
+Deployed a prototype using NLP and Python, improving turnaround by 31%."
+SYN-027,Sneha Patel,Aspiring Python Developer,B.Tech CSE,3,Data Analysis|Git|Python|REST API|SQL|Testing,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+version control, Python, structured query language, Testing
+PROJECTS
+Designed a dashboard using data analytics and REST API, improving turnaround by 29%.
+Currently curious about Computer Vision and planning to explore it."
+SYN-028,Aarav Verma,Aspiring Full-Stack Developer,B.Tech CSE,4,Django|Git|HTML/CSS|JavaScript|MongoDB|Node.js|REST API|React|SQL|Unity,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Django, tailwind css, es6, express.js, mysql
+PROJECTS
+Developed a prototype using version control and MongoDB, improving turnaround by 35%.
+Developed a internal tool using REST API and React, improving turnaround by 44%.
+Designed a mobile feature using unity 3d, improving turnaround by 25%.
+Currently curious about R and planning to explore it."
+SYN-029,Pooja Patel,Aspiring SAP Business Analyst,B.Tech IT,5,Business Analysis|Communication|Data Analysis|Excel|JavaScript|SAP|SQL,"SUMMARY
+B.Tech ECE student with hands-on project work.
+SKILLS
+JavaScript
+PROJECTS
+Automated a analysis pipeline using Business Analysis and Communication, improving turnaround by 49%.
+Automated a analysis pipeline using Data Analysis and excel formulas, improving turnaround by 58%.
+Designed a internal tool using sap abap and SQL, improving turnaround by 34%."
+SYN-030,Diya Iyer,Aspiring Cloud & DevOps Engineer,B.Tech ECE,6,Communication|Computer Networks|Cybersecurity|Git|Linux|React|Streamlit|Testing,"SUMMARY
+B.Tech IT student with hands-on project work.
+SKILLS
+Communication, Cybersecurity, React, Streamlit, Testing
+PROJECTS
+Implemented a analysis pipeline using Computer Networks and github, improving turnaround by 58%.
+Implemented a mobile feature using shell scripting, improving turnaround by 36%.
+Currently curious about SQL and planning to explore it."
+SYN-031,Kabir Rao,Aspiring Data Engineer,B.Tech IT,7,Cloud Computing|Data Engineering|Docker|Git|Linux|PostgreSQL,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Data Engineering, version control, PostgreSQL
+PROJECTS
+Built a dashboard using Cloud Computing and Docker, improving turnaround by 14%.
+Implemented a mobile feature using Linux, improving turnaround by 25%."
+SYN-032,Vihaan Patel,Aspiring Generative AI Engineer,MCA,8,Docker|Flask|Generative AI|Git|Machine Learning|NLP|REST API,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Flask, Git, Machine Learning
+PROJECTS
+Developed a internal tool using Docker and prompt engineering, improving turnaround by 26%.
+Automated a prototype using text mining and rest apis, improving turnaround by 20%."
+SYN-033,Kabir Patel,Aspiring QA Automation Engineer,B.Tech ECE,9,CI/CD|Git|Java|OOP|Problem Solving|Python|SQLite|Statistics|Testing,"SUMMARY
+MCA student with hands-on project work.
+SKILLS
+jenkins, Git, Java, OOP, Problem Solving, python3, hypothesis testing
+PROJECTS
+Designed a dashboard using SQLite and Testing, improving turnaround by 55%.
+Currently curious about Algorithms and planning to explore it."
+SYN-034,Tara Khan,Aspiring UI/UX Designer,B.Tech ECE,10,Adaptability|Communication|Machine Learning|Problem Solving|UI/UX Design,"SUMMARY
+MCA student with hands-on project work.
+SKILLS
+Adaptability, public speaking, ml, Problem Solving
+PROJECTS
+Developed a dashboard using UI/UX Design, improving turnaround by 14%."
+SYN-035,Aarav Nair,Aspiring Game Developer,BCA,11,Algorithms|Flask|Generative AI|OOP,"SUMMARY
+BCA student with hands-on project work.
+SKILLS
+llms
+PROJECTS
+Deployed a internal tool using competitive programming and Flask, improving turnaround by 55%.
+Built a dashboard using OOP, improving turnaround by 46%."
+SYN-036,Yash Khan,Aspiring Cybersecurity Analyst,B.Tech CSE (Data Science),12,Computer Networks|Cybersecurity|Excel|Problem Solving|REST API,"SUMMARY
+B.Tech CSE student with hands-on project work.
+SKILLS
+Cybersecurity, advanced excel
+PROJECTS
+Designed a prototype using tcp/ip and Problem Solving, improving turnaround by 10%.
+Implemented a internal tool using REST API, improving turnaround by 27%."
+SYN-037,Neel Nair,Aspiring Data Analyst,B.Tech IT,1,Data Analysis|Data Visualization|Excel|Pandas|SQL|Statistics,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+data analytics, Pandas, Statistics
+PROJECTS
+Designed a dashboard using Data Visualization and vlookup, improving turnaround by 18%.
+Automated a analysis pipeline using SQL, improving turnaround by 44%.
+Currently curious about Data Structures and planning to explore it."
+SYN-038,Yash Mishra,Aspiring Machine Learning Engineer,B.Tech CSE,2,Deep Learning|Git|Machine Learning|Pandas|Scikit-learn|Statistics,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Deep Learning, Git, Pandas, Scikit-learn, Statistics
+PROJECTS
+Implemented a prototype using ml, improving turnaround by 51%.
+Currently curious about Data Structures and planning to explore it."
+SYN-039,Vihaan Iyer,Aspiring Python Developer,BCA,3,JavaScript|OOP|Python|REST API|SQL|Testing,"SUMMARY
+B.Sc Computer Science student with hands-on project work.
+SKILLS
+JavaScript, SQL, unittest
+PROJECTS
+Automated a mobile feature using OOP and Python, improving turnaround by 44%.
+Built a mobile feature using REST API, improving turnaround by 58%."
+SYN-040,Rohan Mishra,Aspiring Full-Stack Developer,MCA,4,Docker|Git|HTML/CSS|JavaScript|Node.js|REST API|React|SQL|TensorFlow,"SUMMARY
+B.Tech CSE (Data Science) student with hands-on project work.
+SKILLS
+Docker, HTML/CSS, JavaScript, REST API, React, keras
+PROJECTS
+Designed a analysis pipeline using Git and Node.js, improving turnaround by 37%.
+Developed a dashboard using SQL, improving turnaround by 33%."

@@ -1,0 +1,13 @@
+job_id,title,department,description,required_skills,preferred_skills
+1,Data Analyst,Analytics,"Turn business data into insights and dashboards using SQL, Excel and visualisation tools.",SQL|Data Analysis|Data Visualization|Excel|Statistics,Python|Pandas|Communication
+2,Machine Learning Engineer,AI & Data,"Build, evaluate and deploy machine-learning models for production use.",Python|Machine Learning|Scikit-learn|Pandas|Statistics|Git,Deep Learning|Docker|NLP|Testing
+3,Python Developer,Engineering,Develop and maintain backend services and automation in Python.,Python|REST API|SQL|Git|Testing|OOP,Flask|FastAPI|Docker|CI/CD
+4,Full-Stack Developer,Engineering,Build responsive web applications across frontend and backend.,JavaScript|React|Node.js|HTML/CSS|REST API|Git|SQL,TypeScript|Next.js|MongoDB|Docker
+5,SAP Business Analyst,Enterprise Solutions,Translate business processes into SAP-enabled solutions together with stakeholders.,SAP|ERP|Business Analysis|Excel|Communication|SQL,Project Management|Data Analysis|Problem Solving
+6,Cloud & DevOps Engineer,Platform,Automate delivery pipelines and run reliable cloud infrastructure.,Cloud Computing|Docker|Linux|Git|CI/CD,Python|Computer Networks|Cybersecurity|Testing
+7,Data Engineer,AI & Data,Design reliable data pipelines and warehouses for analytics teams.,Python|SQL|Data Engineering|Cloud Computing|Git,PostgreSQL|Docker|Linux|Testing
+8,Generative AI Engineer,AI & Data,Build LLM-powered applications with evaluation and safety controls.,Python|Generative AI|NLP|REST API|Git,Streamlit|FastAPI|Docker|Machine Learning|Testing
+9,QA Automation Engineer,Quality,Design automated tests that protect product quality.,Testing|Python|Git|CI/CD|Problem Solving,Java|REST API|Linux|Communication
+10,UI/UX Designer,Design,"Craft usable, accessible interfaces backed by user research.",UI/UX Design|HTML/CSS|Communication|Problem Solving,JavaScript|Teamwork|Adaptability
+11,Game Developer,Interactive,Build performant gameplay systems for mobile games.,Unity|C#|Game Design|OOP|Algorithms,Git|Problem Solving|Teamwork
+12,Cybersecurity Analyst,Security,"Monitor, assess and reduce security risk across systems.",Cybersecurity|Computer Networks|Linux|Problem Solving,Python|Cloud Computing|Communication
